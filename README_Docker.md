@@ -59,7 +59,7 @@ Taiko doesn't provide prebuilt Docker image (yet). You need to build it yourself
 
 1. Clone `raiko` repository:
    ```
-   git clone git@github.com:taikoxyz/raiko.git
+   git clone https://github.com/taikoxyz/raiko.git
    ```
 1. Change active directory:
    ```
