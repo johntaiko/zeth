@@ -15,7 +15,7 @@ Ensure your machine has an [SGX][sgx]-enabled CPU to run raiko. You can check if
 
 1.  Install `cpuid` if it's not already installed. On Ubuntu, you can do this with the following command:
 
-    sudo apt-get install cpuid
+    ```sudo apt-get install cpuid```
 
 1.  Run `cpuid` and `grep` for SGX:
 
